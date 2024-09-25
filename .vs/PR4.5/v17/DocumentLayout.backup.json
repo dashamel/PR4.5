@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Student\\PR4.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B1B3D0-DDC2-4483-9BA9-EEB30336996B}|PR4.5.vcxproj|D:\\source\\repos\\Student\\PR4.5\\pr4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B1B3D0-DDC2-4483-9BA9-EEB30336996B}|PR4.5.vcxproj|solutionrelative:pr4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr4.5.cpp",
+              "DocumentMoniker": "D:\\source\\repos\\Student\\PR4.5\\pr4.5.cpp",
+              "RelativeDocumentMoniker": "pr4.5.cpp",
+              "ToolTip": "D:\\source\\repos\\Student\\PR4.5\\pr4.5.cpp",
+              "RelativeToolTip": "pr4.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T07:53:52.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
